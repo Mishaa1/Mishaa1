@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a driven Machine Learning and Privacy Researcher and Engineer at the University of British Columbia. My core competencies are in machine learning, security, and computer systems. I aim to enable privacy-preserving and scalable solutions for complex and large-scale ML models in various domains. 
+
+🚀 10+ Projects
+💬 Ask Me About: Python, Machine Learning, SQL
